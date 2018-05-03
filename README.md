@@ -6,7 +6,7 @@ This simple app will help you understand
 # Video
 Watch this video to learn the steps to create sample application.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VX7SSnvpj-8/0.jpg)](https://www.youtube.com/watch?v=VX7SSnvpj-8)
+https://www.youtube.com/watch?v=VX7SSnvpj-8
 
 
 Credits:- SunilSyal
